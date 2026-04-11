@@ -3,3 +3,7 @@ venv
 
 recommender/Kindle_Store.jsonl
 recommender/meta_Kindle_Store.jsonl
+recommender/amazon_etl.db
+recommender/kindle_meta_seed.csv
+recommender/kindle_reviews_seed.csv
+recommender/kindle_meta_cleaned.csv
